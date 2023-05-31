@@ -1,0 +1,4 @@
+"C:\Program Files\JetBrains\CLion 232.6095.18\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains/CLion 232.6095.18/bin/ninja/win/x64/ninja.exe" -DCMAKE_TOOLCHAIN_FILE=arm-none-eabi-gcc.cmake -G Ninja -S C:\Users\Adrian\Documents\Projects\STM32 -B C:\Users\Adrian\Documents\Projects\STM32\cmake-build-debug
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/Adrian/Documents/Projects/STM32/cmake-build-debug
